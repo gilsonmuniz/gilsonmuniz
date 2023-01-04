@@ -22,4 +22,3 @@ eu.diga_ola()
 </div>
 
 ## Tecnologias e Ferramentas :wrench:
-
