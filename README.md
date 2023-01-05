@@ -21,6 +21,7 @@ eu.diga_ola()
 ![Snake animation](https://github.com/GilsonMuniz/GilsonMuniz/blob/output/github-contribution-grid-snake.svg)
 
 ## Tecnologias e Ferramentas :wrench:
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_gl=1*scpg7d*_ga*ODk5NTU2OTEuMTYxODYxMTMwMw..*_ga_9J976DJZ68*MTY3MjkyODY1OC4xLjEuMTY3MjkyODY3OS4wLjAuMA..&_ga=2.19777336.1222848869.1672928659-89955691.1618611303">
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
