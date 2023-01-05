@@ -13,7 +13,8 @@ class Programador:
 eu = Programador()
 eu.diga_ola()
 ```
-![](https://github.com/GilsonMuniz/GilsonMuniz/blob/main/gifs/computer.gif)
+
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ![Snake animation](https://github.com/GilsonMuniz/GilsonMuniz/blob/output/github-contribution-grid-snake.svg)
 
