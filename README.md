@@ -1,17 +1,17 @@
 # 👋 Hello there
 
 ``` python
-class Programador:
+class Programmer:
     def __init__(self):
-        self.nome = 'Gilson Muniz'
-        self.curso = 'Engenharia de Controle e Automacao'
-        self.idiomas = ['pt_BR', 'en_US']
+        self.name = 'Gilson Muniz'
+        self.course = 'Control and Automation Engineer'
+        self.languages = ['pt_BR', 'en_US']
 
-    def diga_ola(self):
-        print('Olá, seja bem vindo! Espero que ache meu trabalho interessante!')
+    def say_hi(self):
+        print('Hi, welcome! I hope you find my work interesting!')
 
-eu = Programador()
-eu.diga_ola()
+me = Programmer()
+me.say_hi()
 ```
 
 ![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -21,7 +21,7 @@ eu.diga_ola()
 ![Snake animation](https://github.com/GilsonMuniz/GilsonMuniz/blob/output/github-contribution-grid-snake.svg)
 
 
-## Tecnologias e Ferramentas :wrench:
+## 🔧 Technologies and Tools
 
 <div>
     <a href=""><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_gl=1*scpg7d*_ga*ODk5NTU2OTEuMTYxODYxMTMwMw..*_ga_9J976DJZ68*MTY3MjkyODY1OC4xLjEuMTY3MjkyODY3OS4wLjAuMA..&_ga=2.19777336.1222848869.1672928659-89955691.1618611303" width="90" height="90"></a>&nbsp;
