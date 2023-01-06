@@ -26,7 +26,7 @@ me.say_hi()
     <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/vscode.svg" target="_blank" width="49" height="49"></a>&nbsp;
     <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/python.png" target="_blank" width="60" height="60"></a>&nbsp;
     <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/djangoproject.svg" target="_blank" width="58" height="58"></a>&nbsp;
-    <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/cpp.svg" target="_blank" width="58" height="58"></a>
+    <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/cpp.svg" target="_blank" width="60" height="60"></a>
 </div>
 
 
