@@ -14,12 +14,11 @@ me = Programmer()
 me.say_hi()
 ```
 
+![Snake animation](https://github.com/GilsonMuniz/GilsonMuniz/blob/output/github-contribution-grid-snake.svg)
+
 ![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Snake animation](https://github.com/GilsonMuniz/GilsonMuniz/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 🔧 Technologies and Tools
 
