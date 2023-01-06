@@ -30,6 +30,7 @@ me.say_hi()
     <a href="" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" target="_blank" width="58" height="58"></a>&nbsp;
     <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/linux.svg" target="_blank" width="56" height="56"></a>&nbsp;
     <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/github.svg" target="_blank" width="56" height="56"></a>&nbsp;
+    <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/jupyter.svg" target="_blank" width="56" height="56"></a>&nbsp;
 </div>
 
 
