@@ -27,7 +27,8 @@ me.say_hi()
     <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/python.png" target="_blank" width="60" height="60"></a>&nbsp;
     <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/djangoproject.svg" target="_blank" width="57" height="57"></a>&nbsp;
     <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/cpp.svg" target="_blank" width="60" height="60"></a>&nbsp;
-    <a href="" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" target="_blank" width="58" height="58"></a>
+    <a href="" target="_blank"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" target="_blank" width="58" height="58"></a>&nbsp;
+    <a href="" target="_blank"><img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/linux.svg" target="_blank" width="56" height="56"></a>&nbsp;
 </div>
 
 
