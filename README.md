@@ -14,8 +14,6 @@ me = Programmer()
 me.say_hi()
 ```
 
-![snake gif](https://github.com/GilsonMuniz/GilsonMuniz/blob/output/github-contribution-grid-snake.gif)
-
 ![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
