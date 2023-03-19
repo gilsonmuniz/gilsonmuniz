@@ -24,7 +24,7 @@ me.say_hi()
     <a target="_blank"><img id="vscode" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/vscode.svg" target="_blank" width="50" height="50"></a>&nbsp;
     <a target="_blank"><img id="python" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/python.png" target="_blank" width="60" height="60"></a>&nbsp;
     <a target="_blank"><img id="django" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/djangoproject.svg" target="_blank" width="57" height="57"></a>&nbsp;
-    <a target="_blank"><img id="c" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/c.svg" target="_blank" width="60" height="60"></a>&nbsp;
+    <a target="_blank"><img id="c" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/c.svg" target="_blank" width="60" height="60"></a>
     <a target="_blank"><img id="cpp" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/cpp.svg" target="_blank" width="60" height="60"></a>&nbsp;
     <a target="_blank"><img id="git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" target="_blank" width="58" height="58"></a>&nbsp;
     <a target="_blank"><img id="linux" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/linux.svg" target="_blank" width="56" height="56"></a>&nbsp;
