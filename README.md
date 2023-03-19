@@ -14,7 +14,9 @@ me = Programmer()
 me.say_hi()
 ```
 
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<div align="left">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 
 
 ## 🔧 Technologies and Tools
@@ -32,6 +34,8 @@ me.say_hi()
     <a target="_blank"><img id="jupyter" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/jupyter.svg" target="_blank" width="56" height="56"></a>&nbsp;
     <a target="_blank"><img id="arduino" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/arduino-project.png" target="_blank" width="60" height="60"></a>&nbsp;
 </div>
+
+## 🎓 Education
 
 
 ## 📫 Reach me at 
