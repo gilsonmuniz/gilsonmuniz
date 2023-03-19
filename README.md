@@ -4,7 +4,7 @@
 class Programmer:
     def __init__(self):
         self.name = 'Gilson Muniz'
-        self.course = 'Control and Automation Engineer'
+        self.course = 'Control and Automation Engineering'
         self.languages = ['pt_BR', 'en_US']
 
     def say_hi(self):
