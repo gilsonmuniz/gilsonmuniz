@@ -37,7 +37,7 @@ me.say_hi()
 
 ## 🎓 Education
 <div align="left">
-    <img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/inatel.jpeg">
+    <img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/inatel.jpg">
 </div>
 
 ## 📫 Reach me at 
