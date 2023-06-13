@@ -35,11 +35,6 @@ me.say_hi()
     <a target="_blank"><img id="arduino" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/arduino-project.png" target="_blank" width="60" height="60"></a>&nbsp;
 </div>
 
-## 🎓 Education
-<div align="left">
-    <img src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/inatel.jpg">
-</div>
-
 ## 📫 Reach me at 
 
 <div>
