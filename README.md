@@ -22,19 +22,20 @@ me.say_hi()
 ## 🔧 Technologies and Tools
 
 <div>
-    <a><img alt="pycharm" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_gl=1*scpg7d*_ga*ODk5NTU2OTEuMTYxODYxMTMwMw..*_ga_9J976DJZ68*MTY3MjkyODY1OC4xLjEuMTY3MjkyODY3OS4wLjAuMA..&_ga=2.19777336.1222848869.1672928659-89955691.1618611303" width="61" height="61"></a>&nbsp;
-    <a target="_blank"><img id="visual-studio-code" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/visual-studio-code.svg" target="_blank" width="60" height="60"></a>&nbsp;
-    <a target="_blank"><img id="visual-studio" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/visual-studio.svg" target="_blank" width="60" height="60"></a>&nbsp;
-    <a target="_blank"><img id="python" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/python.png" target="_blank" width="60" height="60"></a>&nbsp;
-    <a target="_blank"><img id="django" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/djangoproject.svg" target="_blank" width="57" height="57"></a>&nbsp;
-    <a target="_blank"><img id="c" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/c.svg" target="_blank" width="60" height="60"></a>
-    <a target="_blank"><img id="cpp" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/cpp.svg" target="_blank" width="60" height="60"></a>
-    <a target="_blank"><img id="csharp" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/csharp.svg" target="_blank" width="60" height="60"></a>&nbsp;
-    <a target="_blank"><img id="git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" target="_blank" width="58" height="58"></a>&nbsp;
-    <a target="_blank"><img id="linux" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/linux.svg" target="_blank" width="56" height="56"></a>&nbsp;
-    <a target="_blank"><img id="github" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/github.svg" target="_blank" width="56" height="56"></a>&nbsp;
-    <a target="_blank"><img id="jupyter" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/jupyter.svg" target="_blank" width="56" height="56"></a>&nbsp;
-    <a target="_blank"><img id="arduino" src="https://github.com/GilsonMuniz/GilsonMuniz/blob/main/images/arduino-project.png" target="_blank" width="60" height="60"></a>&nbsp;
+    <img alt="pycharm" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_gl=1*scpg7d*_ga*ODk5NTU2OTEuMTYxODYxMTMwMw..*_ga_9J976DJZ68*MTY3MjkyODY1OC4xLjEuMTY3MjkyODY3OS4wLjAuMA..&_ga=2.19777336.1222848869.1672928659-89955691.1618611303" height="36" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="40"/>
+    <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40"/>
+    <img alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="40"/>
+    <img alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="40"/>
+    <img alt="cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="40"/>
+    <img alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="40"/>
+    <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40"/>
+    <img alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="40"/>
+    <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40"/>
+    <img alt="trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="40"/>
+    <img alt="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="40"/>
 </div>
 
 ## 📫 Reach me at 
